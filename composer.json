@@ -1,0 +1,17 @@
+{
+    "name": "dilee/mypackage",
+    "description": "description",
+    "authors": [
+        {
+            "name": "dilee",
+            "email": "dileetest001@gmail.co.kr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "Dilee\\Package\\" : "src"
+        }
+    }
+}
