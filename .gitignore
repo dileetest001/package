@@ -1,3 +1,4 @@
 /vendor/
 .git
-.gitignore
+composer.json
+composer.lock
