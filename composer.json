@@ -1,6 +1,6 @@
 {
     "name": "dileetest001/mypackage",
-    "description": "이동일 테스트 패키지",
+    "description": "이동일 테스트 패키지 변경 테스트",
     "authors": [
         {
             "name": "dilee",
@@ -8,7 +8,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "dileetest001/mypackage": "dev-master"
+    },
     "autoload": {
         "psr-4" : {
             "Dilee\\Package\\" : "src"
