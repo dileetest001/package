@@ -9,7 +9,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "dileetest001/mypackage": "master"
     },
     "autoload": {
         "psr-4" : {
